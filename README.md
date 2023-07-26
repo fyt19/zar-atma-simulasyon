@@ -25,10 +25,3 @@ python zar_simulatoru.py
 - Python 3.x
 - PyQt5 kütüphanesi
 
-## Ekran Görüntüsü
-
-![Zar Atma Simulatoru](screenshot.png)
-
----
-
-Lütfen README dosyanızı uygun bir resimle destekleyin ve projenin amacını, kullanımını ve gerekli adımları açıklamak için yukarıdaki örnekte verilen bilgileri değiştirin. Ayrıca projenin lisansını ve yazar bilgisini eklemeyi unutmayın. Lisans, kodun nasıl kullanılabileceğini ve diğerlerinin ne yapabileceğini açıklar. Bu dağıtılan bir proje ise, diğerlerine projenizi nasıl kullanabileceklerini anlatmak için açık bir lisans gerekir.
